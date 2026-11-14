@@ -1,0 +1,14 @@
+# Autonomy Playground
+
+> Interactive apps for the video lessons on guidance, navigation and control of autonomous vehicles. Each app lets you drag, change a gain, run it again, and watch what happens. Everything runs in the browser.
+
+## Apps
+
+- [LOS Guidance](https://navigation3d.entropyvortex.com/los-guidance/): line-of-sight path following on a waypoint path, with a projected or a propagated reference point
+- [Simulation-Based MPC](https://navigation3d.entropyvortex.com/simulation-based-mpc/): model predictive control of an Otter USV by a fan of turn-rate plans, scored by a cost, with a kayak and buoys as constraints
+- [Simulation-Based MPC in 3D](https://navigation3d.entropyvortex.com/simulation-based-mpc-3d/): a quadrotor by acceleration plans, past another drone and obstacles you move in 3D
+- [State Observer](https://navigation3d.entropyvortex.com/state-observer/): velocity from a noisy distance sensor on a ball and beam, by finite differences, a filtered derivative or a Luenberger observer
+
+## Videos
+
+- [YouTube channel](https://www.youtube.com/@ErlendCoates): short narrated lessons with simulations of surface vessels, underwater vehicles and drones
