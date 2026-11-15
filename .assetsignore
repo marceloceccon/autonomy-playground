@@ -1,0 +1,15 @@
+# Files in the repository that are not part of the site (gitignore syntax).
+.git
+.gitignore
+.github
+.nojekyll
+.wrangler
+.dev.vars*
+.env*
+node_modules
+wrangler.jsonc
+wrangler.toml
+README.md
+sbmpc/package.json
+sbmpc/examples
+sbmpc/test

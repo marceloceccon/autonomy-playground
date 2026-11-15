@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://navigation3d.entropyvortex.com/sitemap.xml

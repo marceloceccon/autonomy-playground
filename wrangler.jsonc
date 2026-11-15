@@ -1,0 +1,16 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "autonomy-playground",
+  "compatibility_date": "2026-11-04",
+  "observability": {
+    "enabled": true
+  },
+  // The site is the repository root, as on GitHub Pages; .assetsignore lists what is not published.
+  "assets": {
+    "directory": ".",
+    "html_handling": "auto-trailing-slash",
+    "not_found_handling": "404-page"
+  },
+  // Needed by the preview build, which runs `npx wrangler preview`.
+  "previews": {}
+}
